@@ -9,4 +9,4 @@ An dictionary app that use Free Dictionary API with offline caching
 Screenshots
 -----------
 
-![Notes screen](screenshots/notes_screen.png "Notes screen")
+![Dictionary screen](screenshots/dictionary.png "Dictionary screen")
